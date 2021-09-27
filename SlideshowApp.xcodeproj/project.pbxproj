@@ -13,6 +13,7 @@
 		CEE304CF26F88C20006A6ED1 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEE304CD26F88C20006A6ED1 /* Main.storyboard */; };
 		CEE304D126F88C21006A6ED1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CEE304D026F88C21006A6ED1 /* Assets.xcassets */; };
 		CEE304D426F88C21006A6ED1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CEE304D226F88C21006A6ED1 /* LaunchScreen.storyboard */; };
+		CEE304DC26F8BA57006A6ED1 /* CloseUpViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CEE304DB26F8BA57006A6ED1 /* CloseUpViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CEE304D026F88C21006A6ED1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CEE304D326F88C21006A6ED1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CEE304D526F88C21006A6ED1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CEE304DB26F8BA57006A6ED1 /* CloseUpViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CloseUpViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				CEE304C726F88C20006A6ED1 /* AppDelegate.swift */,
 				CEE304C926F88C20006A6ED1 /* SceneDelegate.swift */,
 				CEE304CB26F88C20006A6ED1 /* ViewController.swift */,
+				CEE304DB26F8BA57006A6ED1 /* CloseUpViewController.swift */,
 				CEE304CD26F88C20006A6ED1 /* Main.storyboard */,
 				CEE304D026F88C21006A6ED1 /* Assets.xcassets */,
 				CEE304D226F88C21006A6ED1 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CEE304DC26F8BA57006A6ED1 /* CloseUpViewController.swift in Sources */,
 				CEE304CC26F88C20006A6ED1 /* ViewController.swift in Sources */,
 				CEE304C826F88C20006A6ED1 /* AppDelegate.swift in Sources */,
 				CEE304CA26F88C20006A6ED1 /* SceneDelegate.swift in Sources */,
